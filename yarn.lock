@@ -441,10 +441,6 @@ is-module@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/is-module/-/is-module-1.0.0.tgz#3258fb69f78c14d5b815d664336b4cffb6441591"
 
-is-number-prime@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/is-number-prime/-/is-number-prime-1.0.1.tgz#cfe2eba6cea7e7d994061fc2e05639afd3dbfcfc"
-
 is-number@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/is-number/-/is-number-2.1.0.tgz#01fcbbb393463a548f2f466cce16dece49db908f"

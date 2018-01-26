@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "express": "^4.16.2",
-    "is-number-prime": "^1.0.1",
     "rollup": "^0.55.1",
     "rollup-plugin-commonjs": "^8.2.6",
     "rollup-plugin-json": "^2.3.0",
