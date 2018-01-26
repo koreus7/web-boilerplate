@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "is-number-prime": "^1.0.1",
-    "rollup": "^0.55.1"
+    "rollup": "^0.55.1",
+    "rollup-plugin-copy": "^0.2.3"
   }
 }

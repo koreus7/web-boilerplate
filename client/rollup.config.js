@@ -2,6 +2,7 @@
 import resolve from 'rollup-plugin-node-resolve';
 import commonjs from 'rollup-plugin-commonjs';
 import json from 'rollup-plugin-json';
+import copy from 'rollup-plugin-copy';
  
 export default {
   input: 'src/main.js',
@@ -27,6 +28,10 @@ export default {
         // specify indentation for the generated default export —
         // defaults to '\t'
         indent: '  '
+    }),
+    copy({
+      "./src/static/": "../dist/",
+      verbose: true
     })
   ]
 };
