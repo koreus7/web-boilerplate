@@ -7,5 +7,3 @@ yarn start
 ```
 
 I made this because all the boilerplate repos are bloated.
-
-Fits my needs for prototyping.
