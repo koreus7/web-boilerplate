@@ -3,6 +3,7 @@
 rollup and express, clean and simple.
 
 ```
+yarn
 yarn start
 ```
 
